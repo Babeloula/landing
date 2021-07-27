@@ -1,0 +1,8 @@
+.btn-dark-gold {
+  color: #ae760f;
+  font-family: 'Permanent Marker', cursive;
+  background-color: rgb(24, 24, 24);
+  border-radius: 10px;
+  border-style: groove;
+  padding: 15px;
+}

@@ -1,0 +1,17 @@
+.container {
+  padding: 50px;
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.lotr-logo {
+  width: 500px;
+}
+
+.title {
+  font-size: 50px;
+  font-family: 'Bilbo', cursive;
+  color: #F2BC2B;
+  text-shadow: 4px 4px 8px rgb(31, 33, 33);
+}

@@ -1,0 +1,33 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.card {
+  box-shadow: 3px 3px 8px rgba(184, 184, 184, 0.6);
+  width: 200px;
+  height: 250px;
+  border-style: groove;
+  border-color: #ae760f;
+  margin: 0 auto;
+}
+
+.card img {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.card h3 {
+  font-family: 'Bilbo', cursive;
+  font-size: 25px;
+  color: #ae760f;
+}
+
+.card p {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color: rgb(97, 96, 96);
+}
